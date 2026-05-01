@@ -1,0 +1,506 @@
+job_role,skills,domain,required_skills,demand_level_india,experience_alignment
+Lead Data Analyst,"programming, project planning, data analysis, customer service",Misc,"automation, programming, data analysis, problem solving, teamwork, security",High,Intermediate
+Midwife,"networking, python, management, data analysis",Hospitality,"security, project planning, automation, networking, management, communication",High,Advanced
+Principal Veterinarian,"problem solving, customer service, documentation, management",Education,"communication, management, machine learning, cloud computing, project planning, analytics",High,Intermediate
+Senior Gynecologist,"data analysis, documentation, management, project planning",Transport,"data analysis, problem solving, design, documentation, communication, teamwork",High,Advanced
+Junior Physiotherapist,"programming, teamwork, problem solving, machine learning",Agriculture,"cloud computing, research, networking, communication, management, automation",High,Beginner
+Junior Occupational Therapist,"automation, communication, management, problem solving",Creative,"design, management, data analysis, customer service, documentation, communication",Medium,Advanced
+Lead Gynecologist,"programming, communication, documentation, data analysis",Government,"machine learning, analytics, automation, project planning, customer service, python",Medium,Beginner
+Assistant Backend Developer,"management, data analysis, cloud computing, security",Construction,"automation, documentation, design, project planning, machine learning, security",High,Intermediate
+Senior Cardiologist,"communication, customer service, python, design",Business,"data analysis, communication, management, problem solving, python, teamwork",Medium,Intermediate
+Lead Pediatrician,"security, communication, data analysis, research",Creative,"programming, documentation, analytics, machine learning, automation, design",Medium,Advanced
+Junior Big Data Engineer,"customer service, cloud computing, teamwork, documentation",Transport,"automation, research, security, analytics, problem solving, python",High,Advanced
+Dermatologist,"project planning, security, communication, customer service",Agriculture,"cloud computing, documentation, machine learning, communication, design, problem solving",High,Advanced
+Junior Oncologist,"python, documentation, data analysis, project planning",Engineering,"teamwork, python, problem solving, data analysis, cloud computing, design",High,Beginner
+Senior Paramedic,"communication, teamwork, documentation, project planning",Construction,"cloud computing, data analysis, management, automation, communication, customer service",Medium,Advanced
+Web Designer,"teamwork, machine learning, communication, project planning",Transport,"security, cloud computing, machine learning, python, data analysis, automation",Medium,Advanced
+Assistant Data Architect,"analytics, documentation, data analysis, programming",Government,"teamwork, programming, design, project planning, problem solving, analytics",Medium,Intermediate
+Automation Engineer,"research, project planning, customer service, management",Education,"research, customer service, data analysis, communication, analytics, programming",Medium,Intermediate
+Lead Medical Laboratory Technician,"project planning, research, cloud computing, security",Business,"teamwork, python, research, data analysis, cloud computing, programming",High,Intermediate
+Embedded Systems Engineer,"management, teamwork, machine learning, python",Education,"analytics, documentation, cloud computing, security, project planning, management",Medium,Advanced
+Lead Veterinarian,"automation, documentation, security, data analysis",Transport,"problem solving, documentation, research, communication, security, design",Medium,Beginner
+Principal Pathologist,"data analysis, design, security, analytics",Government,"programming, communication, management, cloud computing, networking, customer service",High,Advanced
+Junior Dermatologist,"teamwork, project planning, design, management",Healthcare,"documentation, project planning, networking, cloud computing, research, python",High,Advanced
+Data Engineer,"teamwork, project planning, management, design",Education,"data analysis, problem solving, project planning, customer service, python, research",High,Intermediate
+Principal Cloud Architect,"analytics, research, automation, project planning",Engineering,"management, design, problem solving, python, analytics, documentation",Medium,Beginner
+Assistant UI Designer,"documentation, design, research, data analysis",Creative,"programming, documentation, communication, teamwork, networking, machine learning",High,Intermediate
+Assistant General Physician,"security, communication, customer service, analytics",Hospitality,"python, communication, design, management, cloud computing, documentation",High,Intermediate
+Assistant Veterinarian,"machine learning, documentation, research, management",IT,"automation, programming, data analysis, teamwork, management, research",High,Beginner
+Data Scientist,"management, project planning, analytics, data analysis",Engineering,"documentation, python, management, project planning, programming, communication",High,Intermediate
+Principal Dermatologist,"management, data analysis, cloud computing, design",Education,"management, customer service, analytics, automation, cloud computing, machine learning",High,Beginner
+Senior Optometrist,"problem solving, python, data analysis, machine learning",Education,"management, customer service, security, networking, teamwork, project planning",Medium,Advanced
+Senior Pediatrician,"analytics, programming, automation, networking",Business,"documentation, networking, cloud computing, design, communication, analytics",High,Intermediate
+Cardiologist,"data analysis, python, management, networking",Business,"management, data analysis, customer service, programming, networking, security",Medium,Beginner
+Junior Embedded Systems Engineer,"teamwork, communication, security, analytics",Business,"python, data analysis, networking, documentation, teamwork, customer service",Medium,Advanced
+Lead Network Administrator,"analytics, programming, data analysis, project planning",Education,"customer service, design, communication, cloud computing, data analysis, machine learning",High,Advanced
+Principal Medical Laboratory Technician,"communication, python, documentation, data analysis",IT,"customer service, automation, machine learning, programming, data analysis, management",Medium,Beginner
+Lead Pathologist,"networking, analytics, problem solving, data analysis",Healthcare,"automation, documentation, programming, cloud computing, communication, project planning",Medium,Intermediate
+Anesthesiologist,"documentation, problem solving, python, analytics",Agriculture,"project planning, research, documentation, machine learning, programming, communication",High,Intermediate
+Junior Game Developer,"analytics, problem solving, programming, documentation",Business,"problem solving, networking, design, cloud computing, machine learning, data analysis",High,Intermediate
+Lead Respiratory Therapist,"automation, data analysis, documentation, customer service",Education,"design, python, management, communication, automation, problem solving",Medium,Intermediate
+Lead Cybersecurity Analyst,"research, project planning, data analysis, documentation",IT,"design, programming, machine learning, analytics, automation, data analysis",High,Beginner
+Junior Data Engineer,"design, programming, project planning, customer service",Construction,"security, automation, analytics, problem solving, project planning, data analysis",High,Beginner
+Assistant Web Designer,"cloud computing, security, design, networking",Construction,"python, data analysis, problem solving, security, networking, machine learning",Medium,Intermediate
+Assistant Ophthalmologist,"programming, customer service, analytics, data analysis",Hospitality,"management, teamwork, documentation, automation, problem solving, data analysis",High,Beginner
+Senior Computer Hardware Engineer,"management, machine learning, problem solving, data analysis",Healthcare,"documentation, design, security, research, analytics, customer service",Medium,Intermediate
+Assistant Dermatologist,"management, programming, design, cloud computing",Government,"analytics, documentation, customer service, cloud computing, management, programming",Medium,Beginner
+Senior Nurse Practitioner,"documentation, analytics, teamwork, machine learning",Government,"customer service, python, automation, management, data analysis, project planning",Medium,Beginner
+Senior Security Engineer,"cloud computing, project planning, problem solving, documentation",Government,"data analysis, design, communication, programming, cloud computing, machine learning",Medium,Intermediate
+Lead QA Engineer,"research, documentation, automation, design",Education,"programming, research, networking, communication, python, teamwork",High,Beginner
+Junior Computer Programmer,"problem solving, cloud computing, research, networking",Construction,"security, research, management, project planning, customer service, documentation",Medium,Intermediate
+Principal Cloud Engineer,"design, communication, python, data analysis",Government,"project planning, security, automation, research, teamwork, networking",High,Intermediate
+Principal Web Developer,"security, research, machine learning, python",Government,"programming, machine learning, design, networking, problem solving, security",High,Advanced
+Lead Audiologist,"teamwork, customer service, python, machine learning",Business,"networking, communication, data analysis, analytics, project planning, problem solving",High,Intermediate
+Assistant Medical Assistant,"problem solving, communication, analytics, project planning",Construction,"data analysis, networking, security, management, communication, customer service",Medium,Intermediate
+Assistant Android Developer,"customer service, management, analytics, machine learning",Healthcare,"automation, communication, programming, python, design, security",Medium,Intermediate
+Lead Family Physician,"machine learning, customer service, management, data analysis",Construction,"data analysis, analytics, programming, automation, documentation, customer service",High,Intermediate
+Junior Audiologist,"security, management, python, analytics",Engineering,"networking, documentation, data analysis, research, customer service, analytics",Medium,Advanced
+Junior UX Designer,"problem solving, programming, customer service, teamwork",Agriculture,"analytics, customer service, machine learning, python, project planning, problem solving",High,Advanced
+Optometrist,"machine learning, networking, cloud computing, customer service",Education,"python, machine learning, teamwork, analytics, security, communication",Medium,Intermediate
+Principal QA Engineer,"project planning, python, security, documentation",Transport,"teamwork, cloud computing, machine learning, documentation, customer service, security",Medium,Beginner
+Microbiologist,"machine learning, management, analytics, communication",Engineering,"python, design, teamwork, problem solving, programming, automation",High,Advanced
+AR/VR Developer,"python, analytics, design, problem solving",IT,"documentation, data analysis, teamwork, project planning, machine learning, problem solving",High,Advanced
+Neurologist,"customer service, data analysis, project planning, teamwork",Government,"project planning, data analysis, teamwork, management, documentation, design",High,Advanced
+Principal IT Consultant,"programming, customer service, communication, security",Engineering,"design, automation, data analysis, analytics, networking, communication",High,Advanced
+Junior Anesthesiologist,"problem solving, analytics, research, documentation",Hospitality,"project planning, programming, management, design, customer service, networking",Medium,Intermediate
+Senior Psychiatrist,"communication, security, python, management",Government,"automation, security, management, communication, networking, problem solving",High,Beginner
+Junior Psychiatrist,"teamwork, communication, programming, python",IT,"security, machine learning, networking, design, cloud computing, automation",High,Intermediate
+Principal Computer Hardware Engineer,"automation, machine learning, project planning, data analysis",Education,"cloud computing, documentation, communication, problem solving, python, project planning",High,Advanced
+Senior Physiotherapist,"networking, cloud computing, machine learning, project planning",Construction,"research, cloud computing, communication, design, data analysis, analytics",Medium,Beginner
+Junior Dentist,"documentation, cloud computing, management, research",Construction,"design, machine learning, communication, python, documentation, programming",Medium,Beginner
+Lead Blockchain Developer,"python, cloud computing, project planning, research",Engineering,"design, problem solving, project planning, research, documentation, data analysis",High,Intermediate
+Lead AI Engineer,"design, problem solving, cloud computing, research",IT,"python, documentation, teamwork, automation, project planning, security",Medium,Intermediate
+IT Consultant,"cloud computing, python, communication, customer service",Creative,"documentation, management, customer service, teamwork, data analysis, communication",Medium,Intermediate
+Data Analyst,"management, project planning, documentation, design",Misc,"customer service, networking, python, problem solving, programming, teamwork",High,Advanced
+Cloud Engineer,"python, machine learning, data analysis, networking",Business,"problem solving, automation, python, communication, project planning, cloud computing",High,Intermediate
+Assistant Site Reliability Engineer,"machine learning, python, security, problem solving",Creative,"teamwork, data analysis, automation, documentation, programming, design",High,Beginner
+Principal Nurse Practitioner,"networking, customer service, management, communication",Government,"programming, problem solving, security, automation, design, project planning",Medium,Advanced
+Blockchain Developer,"research, python, data analysis, problem solving",Creative,"data analysis, documentation, machine learning, communication, automation, security",High,Advanced
+Lead Data Engineer,"machine learning, design, project planning, security",Transport,"python, problem solving, customer service, security, design, machine learning",High,Beginner
+Principal Computer Network Architect,"programming, project planning, cloud computing, machine learning",Healthcare,"networking, data analysis, problem solving, customer service, programming, communication",Medium,Beginner
+Junior Physical Therapist,"data analysis, problem solving, machine learning, documentation",Creative,"management, teamwork, communication, programming, analytics, cloud computing",High,Beginner
+Systems Administrator,"teamwork, documentation, machine learning, security",Government,"project planning, automation, python, data analysis, communication, research",Medium,Advanced
+Principal Android Developer,"communication, problem solving, automation, data analysis",Creative,"problem solving, data analysis, management, research, teamwork, python",Medium,Advanced
+Assistant Nurse,"cloud computing, networking, management, research",Healthcare,"python, teamwork, customer service, project planning, documentation, research",High,Intermediate
+Senior Web Designer,"python, data analysis, management, analytics",Agriculture,"customer service, communication, data analysis, python, teamwork, automation",Medium,Advanced
+Computer Programmer,"communication, cloud computing, automation, problem solving",Creative,"documentation, design, communication, security, teamwork, analytics",High,Advanced
+Junior Web Designer,"communication, programming, security, python",Creative,"problem solving, communication, teamwork, management, design, customer service",Medium,Beginner
+Principal Paramedic,"customer service, problem solving, data analysis, analytics",Agriculture,"security, automation, machine learning, design, management, networking",Medium,Beginner
+Assistant Optician,"python, cloud computing, security, machine learning",Misc,"research, data analysis, documentation, python, programming, teamwork",Medium,Beginner
+Assistant Urologist,"research, python, problem solving, security",Government,"problem solving, project planning, customer service, documentation, management, automation",Medium,Intermediate
+Lead Systems Administrator,"communication, research, networking, cloud computing",Transport,"management, programming, research, design, teamwork, project planning",High,Beginner
+Machine Learning Engineer,"networking, data analysis, communication, analytics",Creative,"customer service, problem solving, cloud computing, management, automation, design",High,Advanced
+Principal Business Intelligence Analyst,"research, security, networking, communication",Construction,"problem solving, documentation, security, data analysis, machine learning, teamwork",Medium,Intermediate
+Principal Physical Therapist,"python, data analysis, project planning, problem solving",Misc,"problem solving, management, analytics, networking, security, programming",Medium,Beginner
+Algorithm Engineer,"machine learning, data analysis, cloud computing, customer service",Construction,"analytics, cloud computing, design, automation, customer service, data analysis",Medium,Beginner
+Site Reliability Engineer,"design, problem solving, analytics, communication",Construction,"analytics, data analysis, design, security, automation, problem solving",High,Intermediate
+Assistant Surgeon,"problem solving, python, security, communication",Business,"automation, teamwork, project planning, documentation, research, design",High,Intermediate
+Senior Optician,"security, management, design, automation",Healthcare,"networking, communication, customer service, teamwork, machine learning, analytics",Medium,Advanced
+Junior Network Engineer,"communication, programming, data analysis, analytics",Creative,"design, programming, project planning, research, data analysis, automation",Medium,Intermediate
+Principal Pediatrician,"design, problem solving, communication, project planning",Construction,"teamwork, analytics, machine learning, design, cloud computing, automation",Medium,Intermediate
+Lead UX Designer,"python, documentation, machine learning, programming",Construction,"security, data analysis, programming, automation, analytics, project planning",High,Intermediate
+Lead Embedded Systems Engineer,"security, communication, analytics, data analysis",Misc,"documentation, security, design, research, cloud computing, teamwork",High,Advanced
+Junior Hospital Administrator,"automation, cloud computing, management, communication",Education,"analytics, machine learning, design, security, project planning, data analysis",High,Intermediate
+Senior Game Developer,"automation, project planning, documentation, machine learning",Education,"customer service, problem solving, management, research, cloud computing, data analysis",High,Intermediate
+Psychiatrist,"automation, customer service, cloud computing, networking",Hospitality,"python, customer service, documentation, networking, security, communication",High,Advanced
+Senior Systems Administrator,"cloud computing, automation, programming, security",IT,"teamwork, machine learning, management, project planning, documentation, cloud computing",High,Intermediate
+Lead Robotics Engineer,"documentation, security, automation, customer service",Government,"communication, cloud computing, design, teamwork, management, machine learning",Medium,Beginner
+Lead Video Game Tester,"documentation, security, design, analytics",Misc,"cloud computing, automation, python, research, machine learning, data analysis",Medium,Intermediate
+Respiratory Therapist,"machine learning, management, problem solving, documentation",Agriculture,"research, automation, analytics, networking, machine learning, project planning",Medium,Beginner
+Principal Nutritionist,"programming, teamwork, python, management",Creative,"documentation, python, customer service, communication, management, data analysis",Medium,Advanced
+Principal Full Stack Developer,"analytics, data analysis, machine learning, problem solving",Misc,"cloud computing, analytics, programming, teamwork, customer service, design",Medium,Beginner
+Lead Dermatologist,"communication, research, automation, machine learning",IT,"problem solving, networking, project planning, machine learning, design, customer service",High,Advanced
+Assistant Microbiologist,"cloud computing, data analysis, communication, customer service",Misc,"communication, customer service, security, documentation, programming, problem solving",Medium,Advanced
+Lead Optician,"management, networking, analytics, research",Construction,"communication, problem solving, teamwork, project planning, automation, programming",High,Advanced
+Pharmacist,"networking, analytics, programming, management",Government,"project planning, python, data analysis, design, customer service, security",High,Intermediate
+Lead Epidemiologist,"communication, python, data analysis, documentation",Creative,"networking, automation, communication, project planning, teamwork, cloud computing",High,Beginner
+Junior Cloud Architect,"documentation, teamwork, data analysis, cloud computing",Engineering,"python, machine learning, communication, teamwork, design, management",High,Intermediate
+Lead Immunologist,"machine learning, design, management, communication",Construction,"python, networking, machine learning, problem solving, programming, research",Medium,Beginner
+Assistant Audiologist,"project planning, management, automation, data analysis",Education,"programming, analytics, teamwork, documentation, security, cloud computing",Medium,Advanced
+Principal Data Scientist,"security, communication, teamwork, project planning",Business,"data analysis, automation, communication, customer service, project planning, management",Medium,Beginner
+Junior Emergency Medical Technician,"security, project planning, automation, design",IT,"security, networking, management, automation, teamwork, cloud computing",High,Beginner
+Principal Video Game Tester,"programming, automation, communication, project planning",Transport,"design, documentation, research, analytics, project planning, programming",High,Intermediate
+Lead Nurse,"programming, networking, security, python",Hospitality,"analytics, machine learning, cloud computing, teamwork, management, research",High,Beginner
+Assistant Systems Administrator,"customer service, data analysis, design, automation",Hospitality,"documentation, machine learning, teamwork, programming, python, management",Medium,Intermediate
+Principal Data Architect,"design, problem solving, management, programming",Transport,"teamwork, communication, automation, problem solving, python, customer service",High,Intermediate
+Junior Cybersecurity Analyst,"customer service, project planning, machine learning, analytics",Education,"machine learning, problem solving, programming, analytics, teamwork, project planning",High,Intermediate
+Assistant Video Game Tester,"python, management, analytics, automation",Government,"research, management, machine learning, communication, programming, python",High,Beginner
+Ethical Hacker,"communication, design, research, problem solving",IT,"management, data analysis, documentation, project planning, analytics, teamwork",Medium,Advanced
+Full Stack Developer,"project planning, teamwork, design, documentation",Business,"security, machine learning, cloud computing, problem solving, analytics, data analysis",High,Advanced
+Senior Dentist,"automation, management, project planning, security",Transport,"analytics, python, management, design, problem solving, documentation",High,Intermediate
+Principal Big Data Engineer,"analytics, problem solving, networking, documentation",IT,"research, programming, customer service, management, documentation, design",Medium,Intermediate
+Game Developer,"data analysis, programming, automation, customer service",Government,"teamwork, research, design, management, data analysis, documentation",Medium,Intermediate
+Junior Full Stack Developer,"security, project planning, data analysis, documentation",Business,"security, problem solving, cloud computing, machine learning, networking, documentation",High,Advanced
+Junior QA Engineer,"design, data analysis, programming, documentation",Business,"management, cloud computing, problem solving, programming, research, security",Medium,Beginner
+UI Designer,"programming, python, management, documentation",Misc,"customer service, design, programming, cloud computing, machine learning, problem solving",Medium,Intermediate
+Senior Pathologist,"research, design, python, security",Government,"python, problem solving, management, security, programming, design",High,Intermediate
+Senior Occupational Therapist,"research, problem solving, analytics, management",Healthcare,"research, analytics, teamwork, networking, communication, cloud computing",Medium,Beginner
+Lead Home Health Aide,"design, documentation, communication, teamwork",Engineering,"machine learning, project planning, programming, data analysis, communication, documentation",High,Beginner
+Endocrinologist,"documentation, data analysis, research, python",Construction,"analytics, design, cloud computing, security, management, networking",Medium,Beginner
+Senior Medical Laboratory Technician,"analytics, documentation, teamwork, management",Construction,"project planning, data analysis, networking, python, automation, security",High,Advanced
+Assistant Paramedic,"security, management, analytics, communication",Misc,"networking, management, python, cloud computing, research, machine learning",Medium,Beginner
+Junior Immunologist,"problem solving, security, python, customer service",Hospitality,"security, documentation, automation, teamwork, problem solving, analytics",High,Beginner
+Lead Dietitian,"python, automation, cloud computing, analytics",Government,"management, problem solving, research, programming, networking, documentation",Medium,Advanced
+Junior Epidemiologist,"management, networking, project planning, automation",Creative,"project planning, management, networking, automation, cloud computing, python",High,Intermediate
+Mobile App Developer,"python, analytics, teamwork, security",Agriculture,"automation, management, problem solving, data analysis, machine learning, customer service",Medium,Beginner
+Junior AI Engineer,"problem solving, machine learning, teamwork, management",Transport,"security, programming, problem solving, management, python, project planning",Medium,Advanced
+Assistant Data Engineer,"cloud computing, machine learning, problem solving, security",Misc,"problem solving, teamwork, cloud computing, python, design, communication",High,Advanced
+Senior DevOps Engineer,"networking, documentation, research, customer service",IT,"teamwork, programming, documentation, machine learning, management, project planning",High,Advanced
+Senior Ethical Hacker,"customer service, management, teamwork, networking",Engineering,"teamwork, project planning, data analysis, networking, management, machine learning",Medium,Intermediate
+Senior Gastroenterologist,"design, customer service, teamwork, data analysis",Agriculture,"data analysis, cloud computing, research, machine learning, programming, analytics",Medium,Beginner
+Lead Systems Analyst,"automation, programming, data analysis, machine learning",Healthcare,"project planning, communication, programming, data analysis, automation, design",High,Beginner
+Junior Nurse,"research, project planning, networking, cloud computing",IT,"project planning, documentation, programming, communication, cloud computing, python",High,Beginner
+Junior Algorithm Engineer,"data analysis, automation, project planning, research",IT,"customer service, automation, documentation, python, project planning, teamwork",Medium,Intermediate
+Junior Machine Learning Engineer,"programming, research, management, documentation",Transport,"machine learning, cloud computing, problem solving, management, communication, programming",Medium,Beginner
+Junior Web Developer,"python, machine learning, security, teamwork",Healthcare,"communication, automation, research, project planning, security, teamwork",High,Advanced
+Junior IT Manager,"documentation, machine learning, research, automation",Agriculture,"customer service, data analysis, communication, automation, management, documentation",High,Intermediate
+Lead Ophthalmologist,"networking, data analysis, research, customer service",Government,"customer service, programming, project planning, documentation, problem solving, automation",High,Intermediate
+Dietitian,"management, python, analytics, research",Hospitality,"project planning, automation, machine learning, documentation, teamwork, communication",Medium,Intermediate
+Assistant Psychiatrist,"communication, programming, problem solving, automation",Hospitality,"teamwork, networking, design, documentation, management, analytics",Medium,Beginner
+Lead Paramedic,"communication, customer service, machine learning, project planning",Construction,"security, analytics, programming, customer service, networking, machine learning",High,Advanced
+Junior Computer Network Architect,"machine learning, programming, documentation, project planning",Creative,"communication, research, teamwork, automation, problem solving, python",High,Advanced
+Senior Cybersecurity Analyst,"research, customer service, analytics, problem solving",Misc,"analytics, data analysis, machine learning, cloud computing, problem solving, communication",Medium,Intermediate
+Senior Psychologist,"management, analytics, machine learning, customer service",IT,"problem solving, security, python, communication, design, data analysis",High,Intermediate
+Assistant Business Intelligence Analyst,"security, teamwork, communication, documentation",Misc,"management, networking, teamwork, documentation, project planning, design",High,Intermediate
+Junior Psychologist,"research, problem solving, management, python",Agriculture,"cloud computing, problem solving, automation, communication, security, research",Medium,Beginner
+Senior Dietitian,"machine learning, networking, project planning, teamwork",Misc,"management, problem solving, programming, project planning, automation, research",Medium,Intermediate
+Assistant Cardiologist,"design, automation, cloud computing, teamwork",Transport,"machine learning, problem solving, customer service, automation, cloud computing, communication",High,Intermediate
+Physiotherapist,"programming, analytics, networking, problem solving",Healthcare,"security, problem solving, machine learning, python, automation, programming",High,Beginner
+Senior Algorithm Engineer,"project planning, customer service, automation, networking",Government,"python, communication, customer service, data analysis, programming, management",High,Intermediate
+Psychologist,"security, programming, management, networking",Transport,"design, programming, teamwork, cloud computing, project planning, data analysis",High,Intermediate
+Senior Data Engineer,"design, project planning, security, programming",Engineering,"cloud computing, research, documentation, python, project planning, communication",Medium,Intermediate
+Android Developer,"design, project planning, networking, programming",Transport,"machine learning, problem solving, cloud computing, customer service, design, project planning",High,Intermediate
+Lead Oncologist,"python, design, data analysis, networking",Government,"analytics, security, documentation, machine learning, cloud computing, management",Medium,Advanced
+Junior Automation Engineer,"networking, communication, management, research",Business,"project planning, research, networking, security, design, programming",High,Beginner
+Assistant Medical Laboratory Technician,"documentation, analytics, communication, management",Healthcare,"machine learning, management, documentation, python, cloud computing, customer service",Medium,Beginner
+Assistant Cloud Engineer,"cloud computing, machine learning, documentation, project planning",Engineering,"networking, teamwork, project planning, data analysis, design, machine learning",Medium,Intermediate
+Assistant Computer Programmer,"project planning, management, cloud computing, customer service",Construction,"analytics, customer service, communication, python, management, research",High,Beginner
+Junior Android Developer,"research, customer service, networking, documentation",Business,"machine learning, programming, communication, cloud computing, project planning, analytics",High,Beginner
+Junior Respiratory Therapist,"communication, networking, customer service, analytics",Misc,"research, cloud computing, automation, documentation, design, management",Medium,Beginner
+Junior Pathologist,"documentation, security, analytics, communication",Hospitality,"communication, problem solving, customer service, programming, management, networking",Medium,Beginner
+Senior Surgeon,"automation, python, design, networking",IT,"programming, cloud computing, management, data analysis, research, networking",High,Advanced
+Senior IT Consultant,"design, analytics, customer service, networking",Misc,"automation, analytics, teamwork, documentation, customer service, problem solving",Medium,Advanced
+Lead Cloud Architect,"automation, research, networking, customer service",Engineering,"data analysis, problem solving, machine learning, programming, python, analytics",Medium,Beginner
+Lead Microbiologist,"communication, networking, research, security",Healthcare,"documentation, data analysis, security, python, management, research",High,Intermediate
+Junior AR/VR Developer,"project planning, design, machine learning, management",Education,"machine learning, python, problem solving, cloud computing, management, customer service",High,Advanced
+Senior Medical Assistant,"teamwork, documentation, communication, management",Creative,"project planning, automation, programming, python, communication, customer service",High,Intermediate
+Assistant Family Physician,"customer service, machine learning, problem solving, automation",Business,"design, security, python, research, automation, cloud computing",High,Beginner
+Senior Epidemiologist,"problem solving, networking, management, security",Misc,"research, problem solving, programming, python, automation, documentation",High,Advanced
+Lead Nurse Practitioner,"analytics, cloud computing, research, communication",Transport,"networking, project planning, problem solving, security, communication, automation",High,Beginner
+Network Engineer,"design, teamwork, automation, management",Engineering,"security, management, research, python, networking, automation",Medium,Intermediate
+Senior Ophthalmologist,"data analysis, analytics, programming, research",Hospitality,"programming, customer service, teamwork, communication, project planning, problem solving",High,Intermediate
+Clinical Psychologist,"documentation, customer service, python, programming",Engineering,"customer service, communication, python, project planning, research, problem solving",Medium,Advanced
+Gastroenterologist,"research, automation, design, security",Hospitality,"design, analytics, automation, customer service, research, python",Medium,Beginner
+Principal Data Analyst,"customer service, security, analytics, design",IT,"cloud computing, documentation, teamwork, analytics, python, data analysis",High,Intermediate
+Assistant Ethical Hacker,"project planning, programming, design, communication",Business,"problem solving, automation, communication, security, research, teamwork",Medium,Intermediate
+Computer Hardware Engineer,"teamwork, networking, programming, machine learning",Transport,"analytics, research, machine learning, networking, programming, communication",High,Advanced
+Senior Android Developer,"analytics, cloud computing, research, data analysis",Healthcare,"programming, problem solving, cloud computing, management, security, research",High,Intermediate
+Junior Software Architect,"problem solving, networking, customer service, teamwork",Agriculture,"teamwork, customer service, design, machine learning, data analysis, security",High,Beginner
+Junior Pediatrician,"customer service, analytics, teamwork, security",Engineering,"project planning, automation, research, data analysis, problem solving, programming",Medium,Intermediate
+Principal Software Architect,"teamwork, data analysis, customer service, documentation",Agriculture,"cloud computing, security, programming, data analysis, research, teamwork",Medium,Advanced
+Assistant Anesthesiologist,"documentation, cloud computing, management, python",Government,"programming, customer service, networking, management, teamwork, cloud computing",High,Beginner
+Health Educator,"analytics, python, design, data analysis",Business,"data analysis, research, cloud computing, automation, management, problem solving",High,Beginner
+Lead Physiotherapist,"customer service, security, documentation, cloud computing",Healthcare,"automation, management, problem solving, research, design, communication",Medium,Beginner
+Assistant Endocrinologist,"cloud computing, design, problem solving, project planning",Business,"security, problem solving, networking, teamwork, data analysis, analytics",High,Beginner
+Senior Software Engineer,"design, teamwork, communication, research",Creative,"documentation, programming, communication, management, project planning, research",Medium,Advanced
+Lead Medical Assistant,"machine learning, communication, problem solving, analytics",Business,"design, analytics, project planning, programming, research, customer service",Medium,Advanced
+Senior AI Engineer,"machine learning, security, teamwork, customer service",Education,"communication, programming, project planning, automation, python, research",High,Intermediate
+Assistant Blockchain Developer,"customer service, research, python, programming",Agriculture,"problem solving, automation, teamwork, management, security, project planning",Medium,Intermediate
+Immunologist,"project planning, problem solving, management, data analysis",Creative,"project planning, python, problem solving, machine learning, design, customer service",Medium,Advanced
+Senior Machine Learning Engineer,"cloud computing, security, machine learning, management",Engineering,"automation, project planning, programming, teamwork, communication, cloud computing",Medium,Intermediate
+Lead Endocrinologist,"teamwork, analytics, customer service, cloud computing",Business,"research, management, cloud computing, problem solving, data analysis, automation",Medium,Advanced
+Assistant Radiologist,"cloud computing, documentation, networking, design",Construction,"analytics, management, python, project planning, design, problem solving",High,Beginner
+Urologist,"design, project planning, automation, cloud computing",Construction,"python, design, teamwork, documentation, communication, automation",High,Intermediate
+Assistant AR/VR Developer,"customer service, research, documentation, cloud computing",Education,"communication, programming, design, analytics, problem solving, machine learning",Medium,Intermediate
+Principal AR/VR Developer,"data analysis, cloud computing, analytics, documentation",Hospitality,"data analysis, customer service, automation, security, communication, machine learning",Medium,Intermediate
+Lead Anesthesiologist,"problem solving, research, python, automation",Creative,"project planning, automation, machine learning, python, cloud computing, communication",High,Advanced
+Assistant Respiratory Therapist,"networking, documentation, design, communication",Education,"data analysis, automation, programming, security, customer service, documentation",Medium,Beginner
+Pharmacy Technician,"communication, programming, design, documentation",Hospitality,"cloud computing, management, design, programming, research, python",Medium,Intermediate
+Principal Algorithm Engineer,"research, cloud computing, management, networking",Agriculture,"management, python, data analysis, design, cloud computing, documentation",High,Intermediate
+Senior Video Game Tester,"teamwork, data analysis, communication, automation",Creative,"cloud computing, programming, documentation, data analysis, design, management",High,Intermediate
+Frontend Developer,"design, machine learning, teamwork, documentation",Healthcare,"project planning, customer service, problem solving, management, communication, python",High,Advanced
+Assistant Frontend Developer,"python, analytics, programming, project planning",Government,"automation, python, research, design, security, documentation",Medium,Intermediate
+Principal Psychologist,"data analysis, project planning, automation, cloud computing",Misc,"problem solving, python, communication, customer service, project planning, teamwork",High,Intermediate
+Assistant AI Engineer,"cloud computing, teamwork, automation, design",Construction,"python, documentation, networking, communication, problem solving, machine learning",High,Beginner
+Pediatrician,"python, automation, cloud computing, teamwork",Construction,"cloud computing, documentation, management, project planning, customer service, python",High,Intermediate
+Junior Midwife,"problem solving, automation, machine learning, analytics",Education,"security, research, teamwork, management, machine learning, automation",Medium,Beginner
+Assistant Algorithm Engineer,"machine learning, research, data analysis, python",Construction,"documentation, programming, research, networking, customer service, analytics",Medium,Intermediate
+Principal Frontend Developer,"customer service, analytics, data analysis, management",Construction,"automation, problem solving, customer service, security, communication, analytics",High,Advanced
+Lead Occupational Therapist,"programming, communication, documentation, machine learning",Misc,"automation, research, analytics, python, security, project planning",High,Beginner
+Principal AI Engineer,"data analysis, machine learning, teamwork, networking",Agriculture,"programming, documentation, machine learning, customer service, networking, research",Medium,Advanced
+Senior Nutritionist,"design, programming, research, analytics",Construction,"python, cloud computing, networking, research, teamwork, automation",High,Advanced
+Audiologist,"management, research, python, security",Hospitality,"cloud computing, teamwork, design, machine learning, management, security",Medium,Intermediate
+Junior Dietitian,"communication, problem solving, customer service, programming",Education,"project planning, data analysis, design, problem solving, automation, customer service",Medium,Advanced
+Lead General Physician,"data analysis, research, python, documentation",Hospitality,"teamwork, design, python, customer service, communication, project planning",High,Beginner
+Senior Immunologist,"machine learning, programming, security, problem solving",Misc,"research, security, management, problem solving, project planning, customer service",Medium,Beginner
+Lead Clinical Psychologist,"problem solving, design, analytics, documentation",Transport,"problem solving, documentation, python, management, data analysis, communication",High,Beginner
+Principal Software Engineer,"customer service, data analysis, project planning, automation",Misc,"automation, documentation, communication, customer service, security, design",High,Intermediate
+Lead Database Administrator,"research, programming, cloud computing, communication",IT,"documentation, automation, security, project planning, customer service, machine learning",High,Intermediate
+Senior Systems Analyst,"documentation, cloud computing, analytics, teamwork",Construction,"automation, management, design, research, communication, documentation",Medium,Advanced
+Principal Microbiologist,"teamwork, programming, python, research",Engineering,"networking, security, cloud computing, teamwork, problem solving, machine learning",Medium,Beginner
+Assistant Orthopedic Surgeon,"programming, research, problem solving, documentation",Government,"design, communication, customer service, automation, python, machine learning",High,Advanced
+Junior Backend Developer,"teamwork, cloud computing, customer service, automation",Misc,"project planning, automation, management, communication, documentation, programming",Medium,Intermediate
+Senior Audiologist,"data analysis, automation, analytics, machine learning",Construction,"cloud computing, problem solving, python, security, communication, networking",Medium,Intermediate
+Junior Pharmacist,"automation, cloud computing, teamwork, management",Agriculture,"project planning, security, research, communication, analytics, automation",High,Intermediate
+Principal Gynecologist,"project planning, data analysis, customer service, machine learning",Agriculture,"design, communication, analytics, networking, research, data analysis",High,Beginner
+Assistant Nurse Practitioner,"data analysis, machine learning, analytics, project planning",Healthcare,"design, python, data analysis, cloud computing, security, automation",Medium,Intermediate
+Assistant Mobile App Developer,"cloud computing, machine learning, project planning, problem solving",Government,"programming, teamwork, data analysis, customer service, management, networking",Medium,Advanced
+Lead Pharmacist,"design, documentation, networking, research",IT,"project planning, automation, problem solving, machine learning, customer service, programming",High,Beginner
+Business Intelligence Analyst,"documentation, project planning, teamwork, data analysis",Healthcare,"problem solving, programming, security, design, python, research",Medium,Intermediate
+Software Developer,"cloud computing, analytics, data analysis, problem solving",Agriculture,"problem solving, teamwork, networking, automation, research, customer service",Medium,Beginner
+Junior Network Administrator,"teamwork, problem solving, security, analytics",IT,"python, networking, customer service, research, design, teamwork",Medium,Beginner
+Paramedic,"communication, project planning, problem solving, machine learning",Transport,"cloud computing, management, machine learning, networking, python, automation",Medium,Beginner
+Junior Robotics Engineer,"project planning, data analysis, management, design",Creative,"programming, networking, data analysis, python, design, customer service",High,Beginner
+Junior Veterinarian,"networking, python, management, security",Business,"automation, management, project planning, data analysis, machine learning, teamwork",High,Intermediate
+Senior Urologist,"documentation, networking, analytics, security",Education,"design, customer service, machine learning, networking, security, management",Medium,Intermediate
+Assistant Home Health Aide,"machine learning, project planning, teamwork, python",Healthcare,"analytics, problem solving, networking, python, design, research",High,Intermediate
+Principal Data Engineer,"communication, security, management, cloud computing",Engineering,"design, documentation, python, research, analytics, security",Medium,Intermediate
+Lead Nutritionist,"research, networking, automation, python",Agriculture,"research, automation, customer service, design, cloud computing, python",High,Beginner
+Senior Hospital Administrator,"cloud computing, management, machine learning, customer service",Education,"design, data analysis, problem solving, research, analytics, networking",High,Beginner
+Dentist,"data analysis, security, design, python",Education,"teamwork, analytics, automation, customer service, research, python",Medium,Intermediate
+Assistant Data Scientist,"research, documentation, cloud computing, analytics",Hospitality,"project planning, data analysis, communication, cloud computing, management, design",High,Intermediate
+Principal Mobile App Developer,"networking, problem solving, design, automation",Construction,"project planning, problem solving, python, communication, management, programming",Medium,Advanced
+Principal Site Reliability Engineer,"design, automation, programming, teamwork",Education,"design, documentation, research, problem solving, data analysis, customer service",High,Beginner
+Lead Cloud Engineer,"machine learning, teamwork, cloud computing, project planning",Misc,"problem solving, cloud computing, automation, analytics, teamwork, data analysis",Medium,Advanced
+Assistant Medical Researcher,"teamwork, data analysis, documentation, programming",Business,"analytics, machine learning, security, networking, python, project planning",High,Intermediate
+Senior Site Reliability Engineer,"research, design, analytics, project planning",Construction,"security, data analysis, design, communication, management, python",Medium,Intermediate
+Junior Site Reliability Engineer,"cloud computing, management, research, automation",Engineering,"design, documentation, communication, automation, management, python",Medium,Beginner
+Principal Family Physician,"data analysis, design, python, security",Misc,"management, networking, analytics, problem solving, automation, machine learning",Medium,Advanced
+Lead UI Designer,"design, communication, analytics, networking",Healthcare,"documentation, customer service, management, security, data analysis, automation",Medium,Advanced
+Junior Database Administrator,"teamwork, machine learning, cloud computing, project planning",Business,"analytics, networking, project planning, management, machine learning, programming",High,Intermediate
+Principal Dentist,"project planning, security, documentation, networking",Hospitality,"machine learning, communication, problem solving, automation, management, research",High,Intermediate
+Junior Health Educator,"project planning, communication, management, teamwork",Construction,"automation, networking, data analysis, design, customer service, research",High,Advanced
+Senior Radiologist,"data analysis, design, programming, management",Transport,"analytics, customer service, project planning, teamwork, automation, documentation",High,Advanced
+Cloud Architect,"automation, programming, documentation, data analysis",Misc,"management, customer service, communication, teamwork, security, automation",High,Intermediate
+Lead Mobile App Developer,"research, analytics, security, machine learning",Construction,"automation, analytics, programming, management, networking, data analysis",High,Intermediate
+Junior Data Analyst,"cloud computing, design, networking, automation",Creative,"security, networking, problem solving, programming, cloud computing, communication",High,Beginner
+Assistant Dentist,"automation, project planning, management, teamwork",IT,"programming, data analysis, cloud computing, problem solving, project planning, documentation",High,Intermediate
+Assistant QA Engineer,"customer service, cloud computing, automation, communication",Business,"design, research, problem solving, communication, analytics, machine learning",Medium,Advanced
+Junior IT Consultant,"research, data analysis, management, security",Government,"programming, python, management, cloud computing, analytics, customer service",High,Advanced
+Epidemiologist,"machine learning, management, programming, security",Misc,"analytics, python, documentation, data analysis, teamwork, customer service",Medium,Intermediate
+Principal Anesthesiologist,"management, problem solving, communication, teamwork",Hospitality,"python, documentation, management, security, research, programming",High,Beginner
+Lead Data Scientist,"cloud computing, networking, management, project planning",Construction,"networking, design, customer service, communication, project planning, management",Medium,Beginner
+Assistant Neurologist,"research, machine learning, programming, customer service",Business,"machine learning, project planning, networking, security, data analysis, analytics",High,Advanced
+Senior Business Intelligence Analyst,"teamwork, networking, customer service, management",Business,"networking, project planning, research, machine learning, programming, problem solving",High,Intermediate
+Lead Hospital Administrator,"programming, customer service, machine learning, teamwork",Agriculture,"customer service, management, programming, cloud computing, project planning, analytics",Medium,Intermediate
+Lead Game Developer,"project planning, design, problem solving, customer service",Hospitality,"machine learning, design, communication, security, problem solving, programming",High,Beginner
+Principal Immunologist,"design, automation, machine learning, cloud computing",Misc,"automation, networking, analytics, teamwork, research, machine learning",High,Intermediate
+Junior Medical Researcher,"data analysis, project planning, networking, problem solving",Engineering,"teamwork, python, research, problem solving, project planning, management",Medium,Beginner
+Assistant Optometrist,"teamwork, machine learning, documentation, project planning",Government,"teamwork, problem solving, python, analytics, cloud computing, networking",High,Advanced
+Principal Gastroenterologist,"project planning, documentation, networking, automation",Engineering,"data analysis, documentation, analytics, research, python, automation",Medium,Advanced
+Junior Radiologist,"automation, python, research, teamwork",Agriculture,"analytics, automation, cloud computing, problem solving, machine learning, customer service",High,Intermediate
+Junior Security Engineer,"networking, analytics, project planning, design",Government,"teamwork, cloud computing, communication, programming, machine learning, research",High,Beginner
+Database Administrator,"programming, design, machine learning, management",Education,"data analysis, research, teamwork, customer service, design, cloud computing",Medium,Advanced
+Assistant Nutritionist,"research, machine learning, documentation, data analysis",Business,"python, programming, teamwork, project planning, design, machine learning",Medium,Advanced
+Senior Health Educator,"research, data analysis, machine learning, problem solving",Hospitality,"analytics, programming, machine learning, design, project planning, python",Medium,Advanced
+Principal Occupational Therapist,"teamwork, management, design, security",IT,"problem solving, automation, machine learning, analytics, design, networking",High,Intermediate
+Assistant Pediatrician,"networking, automation, programming, analytics",Misc,"cloud computing, communication, design, teamwork, problem solving, security",High,Advanced
+Junior Optometrist,"programming, documentation, design, teamwork",Transport,"programming, machine learning, problem solving, analytics, customer service, design",Medium,Intermediate
+Principal Network Engineer,"customer service, analytics, research, data analysis",Hospitality,"customer service, research, security, python, design, documentation",Medium,Beginner
+Senior Backend Developer,"cloud computing, communication, management, analytics",Government,"data analysis, cloud computing, automation, machine learning, documentation, security",Medium,Advanced
+Data Architect,"customer service, research, programming, project planning",Education,"teamwork, project planning, programming, analytics, networking, cloud computing",Medium,Intermediate
+Lead Software Developer,"teamwork, python, customer service, research",Engineering,"programming, teamwork, machine learning, automation, data analysis, security",Medium,Intermediate
+Assistant Full Stack Developer,"analytics, documentation, communication, research",Transport,"networking, python, problem solving, teamwork, programming, automation",Medium,Intermediate
+Junior UI Designer,"documentation, programming, problem solving, design",IT,"data analysis, networking, communication, automation, machine learning, design",High,Advanced
+Junior Medical Laboratory Technician,"customer service, teamwork, problem solving, research",Government,"cloud computing, problem solving, data analysis, automation, design, customer service",High,Beginner
+Junior Nutritionist,"security, project planning, analytics, management",Creative,"analytics, python, documentation, automation, cloud computing, project planning",Medium,Advanced
+Lead Health Educator,"teamwork, machine learning, programming, research",Misc,"customer service, documentation, data analysis, design, project planning, cloud computing",Medium,Advanced
+Principal Orthopedic Surgeon,"security, machine learning, cloud computing, teamwork",Business,"teamwork, analytics, project planning, programming, security, design",High,Beginner
+Junior Business Intelligence Analyst,"programming, networking, design, communication",Misc,"management, data analysis, machine learning, cloud computing, automation, programming",Medium,Advanced
+Senior Pharmacist,"teamwork, management, research, customer service",IT,"documentation, security, customer service, management, networking, teamwork",Medium,Intermediate
+Senior Web Developer,"cloud computing, teamwork, automation, programming",Misc,"management, data analysis, teamwork, automation, programming, networking",Medium,Intermediate
+Principal Dietitian,"management, communication, analytics, problem solving",Business,"teamwork, project planning, analytics, machine learning, cloud computing, automation",High,Beginner
+Senior Clinical Psychologist,"analytics, design, programming, research",Healthcare,"networking, communication, programming, teamwork, customer service, analytics",High,Beginner
+Assistant Hospital Administrator,"machine learning, problem solving, networking, project planning",Creative,"machine learning, cloud computing, customer service, communication, automation, management",Medium,Advanced
+Lead Radiologist,"programming, python, project planning, problem solving",Misc,"data analysis, teamwork, cloud computing, management, customer service, documentation",Medium,Intermediate
+Senior Big Data Engineer,"machine learning, documentation, analytics, security",Agriculture,"security, customer service, design, communication, teamwork, machine learning",Medium,Beginner
+Lead Ethical Hacker,"design, security, management, machine learning",Education,"documentation, analytics, automation, design, networking, management",Medium,Beginner
+Senior Home Health Aide,"python, project planning, problem solving, design",Hospitality,"programming, automation, problem solving, customer service, design, analytics",Medium,Beginner
+Lead Android Developer,"teamwork, data analysis, analytics, machine learning",Creative,"programming, problem solving, management, networking, teamwork, design",Medium,Advanced
+Principal Database Administrator,"automation, research, problem solving, customer service",Agriculture,"programming, python, documentation, research, design, automation",High,Intermediate
+Senior Blockchain Developer,"communication, cloud computing, python, customer service",Misc,"networking, analytics, automation, design, machine learning, cloud computing",Medium,Advanced
+Junior Medical Assistant,"automation, programming, communication, cloud computing",Business,"design, project planning, cloud computing, customer service, problem solving, teamwork",Medium,Intermediate
+Principal Security Engineer,"teamwork, cloud computing, analytics, research",Construction,"project planning, security, problem solving, documentation, analytics, design",High,Advanced
+Junior Nurse Practitioner,"teamwork, customer service, design, documentation",Healthcare,"research, analytics, data analysis, teamwork, communication, documentation",Medium,Beginner
+Assistant Database Administrator,"research, networking, security, cloud computing",Transport,"data analysis, documentation, analytics, research, automation, security",Medium,Advanced
+Assistant Emergency Medical Technician,"documentation, communication, research, python",Construction,"design, machine learning, documentation, project planning, networking, automation",High,Advanced
+Senior Medical Researcher,"machine learning, networking, analytics, design",Education,"project planning, security, automation, data analysis, python, problem solving",Medium,Advanced
+Principal Oncologist,"cloud computing, problem solving, customer service, analytics",Agriculture,"programming, communication, teamwork, machine learning, python, security",High,Beginner
+Junior Data Architect,"documentation, data analysis, management, cloud computing",Agriculture,"design, machine learning, teamwork, problem solving, management, security",Medium,Advanced
+Video Game Tester,"python, communication, programming, research",Government,"networking, problem solving, programming, documentation, project planning, python",Medium,Advanced
+Lead Psychologist,"programming, design, project planning, machine learning",Misc,"data analysis, automation, python, security, project planning, design",High,Intermediate
+Senior Orthopedic Surgeon,"documentation, communication, customer service, automation",Healthcare,"design, security, management, networking, data analysis, python",High,Advanced
+Senior Anesthesiologist,"communication, security, cloud computing, problem solving",Misc,"problem solving, communication, machine learning, security, cloud computing, design",Medium,Beginner
+Principal Pharmacist,"python, customer service, analytics, networking",Creative,"networking, data analysis, management, machine learning, programming, python",Medium,Intermediate
+Senior Pharmacy Technician,"networking, machine learning, management, design",Healthcare,"project planning, machine learning, design, analytics, communication, python",High,Intermediate
+Lead Big Data Engineer,"customer service, machine learning, cloud computing, project planning",Agriculture,"project planning, networking, problem solving, research, analytics, customer service",Medium,Advanced
+Lead Backend Developer,"programming, customer service, data analysis, teamwork",Misc,"security, python, management, customer service, networking, programming",Medium,Beginner
+Junior Cloud Engineer,"cloud computing, problem solving, programming, analytics",Agriculture,"design, data analysis, security, management, analytics, project planning",High,Beginner
+Radiologist,"analytics, research, design, project planning",Engineering,"project planning, analytics, cloud computing, teamwork, design, python",Medium,Advanced
+Cybersecurity Analyst,"research, problem solving, documentation, design",IT,"python, research, automation, communication, machine learning, management",Medium,Advanced
+Assistant Immunologist,"research, automation, customer service, documentation",IT,"communication, design, python, customer service, teamwork, cloud computing",Medium,Beginner
+Assistant Gynecologist,"programming, cloud computing, data analysis, teamwork",Misc,"problem solving, analytics, cloud computing, programming, design, data analysis",High,Advanced
+Principal Systems Administrator,"python, management, communication, automation",IT,"teamwork, communication, research, customer service, networking, design",Medium,Beginner
+Principal Game Developer,"cloud computing, teamwork, communication, customer service",Healthcare,"data analysis, python, research, security, analytics, project planning",Medium,Beginner
+Principal Optometrist,"cloud computing, documentation, machine learning, automation",Creative,"cloud computing, communication, machine learning, networking, problem solving, analytics",High,Advanced
+Ophthalmologist,"problem solving, machine learning, teamwork, design",Healthcare,"cloud computing, project planning, teamwork, customer service, documentation, design",Medium,Advanced
+Lead Surgeon,"communication, research, teamwork, data analysis",Education,"teamwork, machine learning, networking, analytics, python, research",High,Intermediate
+Nurse,"security, data analysis, documentation, communication",Engineering,"python, cloud computing, documentation, analytics, programming, security",Medium,Beginner
+Senior Data Scientist,"management, programming, teamwork, cloud computing",Hospitality,"management, automation, project planning, python, cloud computing, problem solving",Medium,Beginner
+Senior QA Engineer,"programming, security, cloud computing, management",Creative,"data analysis, analytics, research, security, networking, communication",Medium,Advanced
+Family Physician,"management, machine learning, documentation, programming",Business,"cloud computing, automation, teamwork, python, research, analytics",Medium,Intermediate
+UX Designer,"problem solving, networking, machine learning, automation",Education,"problem solving, management, customer service, networking, programming, python",High,Advanced
+Lead Medical Researcher,"python, cloud computing, design, communication",Engineering,"networking, data analysis, programming, security, problem solving, communication",Medium,Beginner
+Assistant Pharmacist,"automation, analytics, design, machine learning",Education,"communication, management, automation, customer service, data analysis, research",Medium,Intermediate
+General Physician,"analytics, communication, machine learning, automation",Business,"research, cloud computing, automation, management, problem solving, programming",Medium,Intermediate
+Principal Automation Engineer,"communication, security, problem solving, automation",Government,"research, analytics, management, problem solving, documentation, python",High,Advanced
+Junior Orthopedic Surgeon,"management, project planning, research, teamwork",Healthcare,"documentation, networking, communication, data analysis, teamwork, problem solving",Medium,Intermediate
+Senior UI Designer,"teamwork, customer service, design, security",Government,"communication, machine learning, research, documentation, problem solving, python",High,Beginner
+Nurse Practitioner,"automation, python, cloud computing, management",Transport,"programming, machine learning, data analysis, analytics, customer service, automation",Medium,Intermediate
+Junior Pharmacy Technician,"problem solving, analytics, communication, networking",Education,"cloud computing, python, customer service, analytics, teamwork, programming",High,Beginner
+Backend Developer,"machine learning, python, cloud computing, documentation",Creative,"documentation, python, data analysis, analytics, project planning, management",High,Intermediate
+Security Engineer,"networking, research, programming, management",Education,"security, programming, communication, automation, analytics, customer service",High,Beginner
+Junior Clinical Psychologist,"security, automation, analytics, management",Healthcare,"documentation, teamwork, security, customer service, programming, automation",High,Intermediate
+Assistant Software Architect,"research, networking, security, python",Misc,"teamwork, programming, networking, communication, analytics, automation",High,Beginner
+IT Manager,"customer service, design, machine learning, documentation",Healthcare,"networking, automation, design, python, data analysis, project planning",Medium,Beginner
+Medical Assistant,"networking, problem solving, cloud computing, teamwork",Engineering,"teamwork, documentation, customer service, data analysis, security, communication",High,Advanced
+Junior Systems Analyst,"communication, python, teamwork, problem solving",Engineering,"documentation, design, customer service, cloud computing, automation, research",Medium,Beginner
+Principal Neurologist,"management, machine learning, programming, project planning",Transport,"machine learning, data analysis, customer service, research, documentation, design",Medium,Intermediate
+Lead IT Manager,"project planning, communication, design, cloud computing",IT,"problem solving, design, project planning, research, machine learning, networking",High,Beginner
+Senior Mobile App Developer,"documentation, security, management, networking",Education,"communication, research, python, data analysis, machine learning, automation",High,Intermediate
+Senior Respiratory Therapist,"cloud computing, networking, problem solving, design",Education,"management, research, teamwork, communication, problem solving, automation",High,Advanced
+Principal Backend Developer,"machine learning, project planning, python, programming",Construction,"data analysis, security, customer service, cloud computing, documentation, teamwork",Medium,Beginner
+Principal Web Designer,"communication, analytics, documentation, teamwork",Engineering,"networking, problem solving, python, management, project planning, customer service",High,Advanced
+Lead Data Architect,"communication, research, programming, cloud computing",Engineering,"problem solving, security, programming, management, customer service, research",High,Intermediate
+Big Data Engineer,"management, customer service, communication, python",Agriculture,"documentation, automation, data analysis, machine learning, programming, design",Medium,Beginner
+Principal Epidemiologist,"machine learning, teamwork, design, cloud computing",Education,"management, problem solving, cloud computing, data analysis, networking, python",High,Advanced
+Medical Researcher,"management, analytics, design, documentation",Agriculture,"communication, cloud computing, research, documentation, networking, python",Medium,Beginner
+Principal Cybersecurity Analyst,"programming, management, communication, research",Agriculture,"data analysis, problem solving, design, analytics, documentation, networking",High,Advanced
+Hospital Administrator,"research, communication, teamwork, programming",Transport,"documentation, automation, problem solving, machine learning, project planning, data analysis",High,Intermediate
+Lead Computer Hardware Engineer,"networking, problem solving, cloud computing, customer service",Business,"research, analytics, programming, customer service, teamwork, automation",Medium,Advanced
+Assistant Oncologist,"documentation, cloud computing, project planning, analytics",Hospitality,"cloud computing, project planning, security, machine learning, customer service, documentation",High,Intermediate
+Assistant Software Engineer,"python, machine learning, cloud computing, teamwork",Transport,"problem solving, research, management, networking, communication, project planning",High,Intermediate
+Lead Network Engineer,"cloud computing, data analysis, documentation, analytics",Transport,"management, data analysis, cloud computing, design, analytics, project planning",High,Advanced
+Junior Home Health Aide,"documentation, teamwork, security, problem solving",Transport,"management, security, python, research, teamwork, analytics",High,Advanced
+Lead Software Architect,"research, networking, management, automation",Education,"machine learning, communication, management, design, teamwork, problem solving",High,Intermediate
+Oncologist,"project planning, problem solving, research, analytics",Education,"analytics, management, project planning, customer service, networking, research",High,Beginner
+Junior Video Game Tester,"customer service, programming, communication, design",Agriculture,"communication, machine learning, data analysis, customer service, automation, management",Medium,Beginner
+Junior Mobile App Developer,"communication, security, cloud computing, design",IT,"cloud computing, customer service, python, design, machine learning, problem solving",High,Beginner
+Principal Nurse,"customer service, research, automation, problem solving",Business,"python, analytics, design, networking, data analysis, research",High,Advanced
+Assistant Computer Hardware Engineer,"analytics, teamwork, python, networking",Business,"documentation, customer service, teamwork, cloud computing, management, programming",Medium,Advanced
+Junior Software Developer,"design, customer service, analytics, teamwork",Construction,"machine learning, networking, communication, management, customer service, design",High,Advanced
+Senior Cloud Engineer,"customer service, research, python, cloud computing",Construction,"project planning, python, networking, data analysis, machine learning, cloud computing",High,Intermediate
+Principal Machine Learning Engineer,"machine learning, research, security, data analysis",Construction,"cloud computing, networking, automation, design, teamwork, management",Medium,Advanced
+Assistant Cybersecurity Analyst,"programming, customer service, networking, cloud computing",Education,"communication, data analysis, problem solving, customer service, networking, research",High,Beginner
+Assistant IT Consultant,"data analysis, security, cloud computing, design",Agriculture,"data analysis, machine learning, networking, communication, problem solving, teamwork",High,Intermediate
+Senior Frontend Developer,"problem solving, python, research, communication",Transport,"teamwork, automation, research, customer service, cloud computing, analytics",Medium,Beginner
+Assistant IT Manager,"management, research, security, project planning",Agriculture,"teamwork, management, analytics, project planning, python, customer service",Medium,Advanced
+Lead Algorithm Engineer,"programming, design, communication, documentation",Transport,"research, problem solving, security, documentation, python, management",High,Advanced
+Lead Security Engineer,"automation, machine learning, programming, analytics",Misc,"problem solving, machine learning, python, security, data analysis, analytics",Medium,Intermediate
+Principal Ophthalmologist,"data analysis, teamwork, analytics, machine learning",Healthcare,"networking, python, automation, cloud computing, project planning, research",High,Beginner
+Junior Gynecologist,"analytics, problem solving, documentation, teamwork",Creative,"research, teamwork, programming, project planning, networking, python",Medium,Advanced
+Lead Cardiologist,"customer service, security, teamwork, project planning",Healthcare,"python, cloud computing, networking, data analysis, communication, design",High,Intermediate
+Assistant Network Administrator,"programming, analytics, communication, design",Business,"machine learning, networking, teamwork, customer service, analytics, python",High,Beginner
+Senior Automation Engineer,"project planning, communication, automation, documentation",IT,"documentation, networking, project planning, teamwork, customer service, analytics",Medium,Advanced
+Principal Optician,"management, machine learning, problem solving, cloud computing",Engineering,"project planning, python, analytics, networking, design, research",High,Intermediate
+Gynecologist,"project planning, customer service, machine learning, programming",Hospitality,"communication, programming, python, data analysis, networking, machine learning",Medium,Beginner
+Lead Physical Therapist,"design, documentation, project planning, programming",Government,"networking, data analysis, security, design, problem solving, teamwork",High,Beginner
+Lead DevOps Engineer,"cloud computing, analytics, research, data analysis",Construction,"security, machine learning, documentation, data analysis, management, communication",Medium,Beginner
+Junior Microbiologist,"teamwork, security, python, automation",Construction,"machine learning, teamwork, automation, networking, research, problem solving",High,Intermediate
+Principal Robotics Engineer,"security, data analysis, problem solving, documentation",Government,"problem solving, project planning, teamwork, automation, research, design",Medium,Intermediate
+Junior Paramedic,"python, communication, cloud computing, analytics",Healthcare,"programming, security, machine learning, customer service, project planning, problem solving",Medium,Intermediate
+Assistant Physical Therapist,"design, project planning, analytics, python",IT,"management, research, machine learning, automation, communication, analytics",Medium,Beginner
+Junior Software Engineer,"cloud computing, python, machine learning, design",Engineering,"customer service, automation, machine learning, python, data analysis, analytics",Medium,Intermediate
+Lead Business Intelligence Analyst,"networking, machine learning, teamwork, cloud computing",Healthcare,"communication, customer service, python, cloud computing, programming, data analysis",High,Advanced
+Senior Data Analyst,"automation, security, documentation, problem solving",Business,"problem solving, cloud computing, design, python, analytics, communication",Medium,Beginner
+Principal Midwife,"networking, data analysis, project planning, automation",Healthcare,"project planning, problem solving, data analysis, security, documentation, research",Medium,Intermediate
+Senior Dermatologist,"analytics, python, teamwork, security",Government,"cloud computing, project planning, research, automation, networking, customer service",High,Beginner
+Senior Full Stack Developer,"automation, networking, machine learning, python",Hospitality,"design, automation, security, programming, problem solving, networking",Medium,Beginner
+Assistant Automation Engineer,"customer service, automation, cloud computing, networking",Misc,"problem solving, cloud computing, analytics, networking, python, research",High,Advanced
+Principal Health Educator,"research, security, teamwork, machine learning",Business,"research, programming, analytics, python, cloud computing, management",Medium,Advanced
+Emergency Medical Technician,"customer service, communication, documentation, security",Hospitality,"documentation, automation, data analysis, programming, analytics, machine learning",Medium,Advanced
+Lead Full Stack Developer,"customer service, design, management, networking",Misc,"networking, data analysis, cloud computing, machine learning, analytics, design",Medium,Advanced
+Principal Cardiologist,"project planning, documentation, cloud computing, networking",Construction,"documentation, security, project planning, research, communication, design",Medium,Intermediate
+Principal Network Administrator,"teamwork, communication, python, design",Business,"project planning, problem solving, customer service, analytics, programming, security",High,Intermediate
+Principal Radiologist,"automation, project planning, analytics, python",Government,"teamwork, communication, programming, python, security, machine learning",High,Beginner
+Senior Network Administrator,"machine learning, automation, management, design",Agriculture,"automation, cloud computing, analytics, design, customer service, documentation",High,Advanced
+Senior Emergency Medical Technician,"research, management, automation, data analysis",Agriculture,"problem solving, documentation, communication, machine learning, data analysis, design",Medium,Advanced
+Assistant Clinical Psychologist,"cloud computing, management, documentation, python",Construction,"problem solving, documentation, machine learning, design, data analysis, security",High,Intermediate
+Lead Dentist,"analytics, teamwork, communication, data analysis",Engineering,"machine learning, project planning, problem solving, documentation, customer service, management",Medium,Beginner
+Junior General Physician,"problem solving, teamwork, programming, communication",Transport,"security, teamwork, research, management, programming, networking",Medium,Advanced
+Senior Neurologist,"automation, analytics, design, project planning",Agriculture,"networking, research, teamwork, design, machine learning, automation",High,Intermediate
+Pathologist,"problem solving, data analysis, communication, machine learning",Construction,"research, machine learning, project planning, communication, programming, security",Medium,Intermediate
+Optician,"machine learning, python, teamwork, communication",Engineering,"documentation, machine learning, project planning, security, problem solving, python",Medium,Advanced
+Senior Computer Network Architect,"analytics, automation, security, problem solving",Agriculture,"problem solving, security, teamwork, data analysis, project planning, python",Medium,Advanced
+Principal Hospital Administrator,"cloud computing, teamwork, networking, programming",Government,"automation, python, problem solving, research, project planning, programming",High,Intermediate
+QA Engineer,"customer service, cloud computing, teamwork, automation",Education,"customer service, problem solving, project planning, security, cloud computing, programming",High,Intermediate
+Assistant Computer Network Architect,"python, automation, documentation, data analysis",Creative,"problem solving, programming, networking, research, automation, analytics",Medium,Beginner
+Junior Neurologist,"automation, problem solving, python, documentation",Hospitality,"security, cloud computing, project planning, data analysis, research, documentation",Medium,Intermediate
+Senior Embedded Systems Engineer,"automation, project planning, management, machine learning",Misc,"analytics, problem solving, cloud computing, communication, project planning, python",Medium,Intermediate
+Junior Surgeon,"teamwork, data analysis, analytics, machine learning",Government,"security, programming, networking, data analysis, customer service, automation",High,Beginner
+Principal Medical Researcher,"teamwork, machine learning, management, analytics",Healthcare,"networking, research, security, design, automation, python",Medium,Beginner
+Junior Blockchain Developer,"machine learning, cloud computing, design, problem solving",Transport,"customer service, analytics, security, cloud computing, networking, problem solving",Medium,Intermediate
+Principal UI Designer,"security, management, automation, data analysis",Education,"teamwork, design, analytics, management, machine learning, python",Medium,Intermediate
+Principal Psychiatrist,"python, management, data analysis, project planning",Healthcare,"security, networking, cloud computing, data analysis, communication, customer service",Medium,Beginner
+Software Architect,"networking, programming, analytics, data analysis",Hospitality,"problem solving, analytics, security, python, data analysis, machine learning",Medium,Advanced
+Principal Surgeon,"communication, networking, python, management",Creative,"documentation, communication, design, customer service, programming, project planning",Medium,Intermediate
+Lead Midwife,"management, problem solving, analytics, documentation",Transport,"management, data analysis, programming, communication, security, documentation",High,Beginner
+Principal Blockchain Developer,"analytics, research, teamwork, communication",Transport,"data analysis, project planning, networking, cloud computing, teamwork, programming",Medium,Advanced
+Principal Physiotherapist,"design, python, communication, research",Engineering,"programming, customer service, project planning, security, documentation, analytics",Medium,Intermediate
+Junior Ethical Hacker,"analytics, cloud computing, python, design",Creative,"security, machine learning, problem solving, data analysis, design, customer service",High,Intermediate
+Junior Cardiologist,"management, analytics, communication, design",Misc,"design, teamwork, networking, problem solving, documentation, python",Medium,Advanced
+Assistant Embedded Systems Engineer,"cloud computing, design, teamwork, programming",Construction,"communication, analytics, teamwork, data analysis, customer service, problem solving",Medium,Beginner
+Principal Home Health Aide,"design, customer service, communication, project planning",Misc,"data analysis, customer service, programming, research, python, teamwork",High,Intermediate
+Physical Therapist,"programming, analytics, management, python",Misc,"security, teamwork, data analysis, project planning, research, python",Medium,Intermediate
+Principal General Physician,"teamwork, data analysis, cloud computing, python",Misc,"programming, automation, networking, design, cloud computing, documentation",Medium,Advanced
+Lead Site Reliability Engineer,"cloud computing, programming, machine learning, management",Engineering,"machine learning, data analysis, project planning, teamwork, design, problem solving",High,Intermediate
+Senior Veterinarian,"cloud computing, programming, security, teamwork",Healthcare,"communication, security, analytics, teamwork, research, customer service",Medium,Advanced
+Software Engineer,"design, problem solving, communication, documentation",IT,"communication, networking, customer service, analytics, design, machine learning",High,Beginner
+Senior General Physician,"machine learning, programming, python, management",Healthcare,"python, documentation, networking, security, automation, cloud computing",Medium,Intermediate
+Nutritionist,"machine learning, networking, python, research",Creative,"python, customer service, documentation, security, design, teamwork",Medium,Intermediate
+Assistant Systems Analyst,"management, documentation, project planning, data analysis",Education,"management, customer service, design, documentation, teamwork, python",Medium,Intermediate
+AI Engineer,"automation, teamwork, communication, design",Transport,"networking, machine learning, programming, python, documentation, automation",Medium,Beginner
+Lead AR/VR Developer,"cloud computing, python, design, automation",Misc,"data analysis, cloud computing, teamwork, python, project planning, automation",High,Beginner
+Assistant Occupational Therapist,"analytics, security, project planning, design",Creative,"python, customer service, documentation, research, security, teamwork",Medium,Advanced
+Assistant Pharmacy Technician,"automation, analytics, research, documentation",Construction,"machine learning, security, data analysis, research, networking, management",Medium,Beginner
+Lead Orthopedic Surgeon,"programming, security, project planning, problem solving",Agriculture,"programming, machine learning, analytics, problem solving, design, research",Medium,Intermediate
+Assistant Epidemiologist,"communication, machine learning, analytics, networking",Transport,"python, documentation, analytics, customer service, automation, management",Medium,Beginner
+Systems Analyst,"project planning, networking, problem solving, customer service",Transport,"programming, data analysis, problem solving, networking, cloud computing, communication",High,Beginner
+Medical Laboratory Technician,"design, machine learning, security, documentation",Healthcare,"research, customer service, documentation, teamwork, machine learning, data analysis",Medium,Beginner
+Assistant DevOps Engineer,"research, teamwork, networking, customer service",Engineering,"communication, project planning, programming, research, data analysis, python",Medium,Intermediate
+Assistant Game Developer,"problem solving, security, python, documentation",Transport,"security, documentation, design, analytics, automation, customer service",High,Intermediate
+Assistant Web Developer,"networking, teamwork, documentation, analytics",Government,"communication, security, automation, design, customer service, networking",High,Beginner
+Veterinarian,"problem solving, machine learning, project planning, management",Government,"communication, analytics, automation, design, cloud computing, security",Medium,Beginner
+Principal Software Developer,"research, programming, data analysis, python",Education,"security, project planning, programming, python, cloud computing, problem solving",Medium,Intermediate
+DevOps Engineer,"documentation, problem solving, design, data analysis",Healthcare,"programming, analytics, networking, teamwork, cloud computing, automation",High,Intermediate
+Principal Audiologist,"research, problem solving, machine learning, customer service",Misc,"machine learning, research, documentation, automation, cloud computing, project planning",Medium,Beginner
+Senior Software Developer,"research, machine learning, data analysis, teamwork",Hospitality,"teamwork, machine learning, programming, project planning, documentation, automation",High,Beginner
+Senior UX Designer,"documentation, communication, python, machine learning",Misc,"automation, security, communication, customer service, management, teamwork",High,Intermediate
+Senior AR/VR Developer,"security, programming, automation, networking",Construction,"teamwork, customer service, data analysis, management, networking, analytics",Medium,Beginner
+Assistant Robotics Engineer,"machine learning, networking, problem solving, data analysis",Healthcare,"cloud computing, programming, automation, project planning, research, management",High,Intermediate
+Assistant Network Engineer,"data analysis, automation, design, programming",Hospitality,"project planning, communication, documentation, management, programming, security",High,Intermediate
+Junior Endocrinologist,"project planning, customer service, management, machine learning",Education,"automation, research, programming, analytics, cloud computing, data analysis",High,Intermediate
+Orthopedic Surgeon,"management, security, cloud computing, communication",Engineering,"customer service, security, problem solving, teamwork, networking, design",High,Advanced
+Principal Pharmacy Technician,"documentation, programming, design, customer service",Engineering,"documentation, programming, machine learning, teamwork, data analysis, automation",Medium,Advanced
+Senior Software Architect,"project planning, cloud computing, python, design",IT,"documentation, project planning, data analysis, teamwork, security, customer service",Medium,Beginner
+Principal Medical Assistant,"python, project planning, data analysis, security",Construction,"customer service, networking, python, automation, communication, documentation",Medium,Beginner
+Occupational Therapist,"documentation, python, problem solving, design",Engineering,"machine learning, cloud computing, project planning, security, teamwork, networking",Medium,Beginner
+Principal DevOps Engineer,"data analysis, networking, research, security",Healthcare,"cloud computing, python, communication, programming, security, automation",Medium,Advanced
+Principal Systems Analyst,"research, communication, programming, teamwork",Education,"teamwork, security, design, cloud computing, automation, project planning",Medium,Beginner
+Assistant UX Designer,"machine learning, communication, teamwork, automation",Hospitality,"teamwork, research, networking, communication, analytics, documentation",Medium,Advanced
+Lead Frontend Developer,"management, communication, project planning, python",Hospitality,"python, customer service, problem solving, design, research, security",High,Advanced
+Lead Gastroenterologist,"cloud computing, communication, programming, teamwork",IT,"networking, customer service, machine learning, analytics, documentation, data analysis",High,Intermediate
+Lead Computer Programmer,"security, machine learning, communication, teamwork",Engineering,"analytics, design, networking, communication, project planning, machine learning",High,Intermediate
+Senior Midwife,"machine learning, design, documentation, networking",Healthcare,"networking, management, security, python, design, customer service",Medium,Intermediate
+Senior Endocrinologist,"analytics, research, programming, networking",Hospitality,"research, management, teamwork, cloud computing, problem solving, machine learning",Medium,Intermediate
+Lead IT Consultant,"problem solving, management, security, documentation",Agriculture,"programming, documentation, networking, project planning, problem solving, research",High,Intermediate
+Senior Microbiologist,"python, teamwork, customer service, documentation",Business,"research, networking, customer service, analytics, project planning, design",High,Advanced
+Assistant Data Analyst,"python, cloud computing, customer service, automation",Misc,"automation, design, programming, research, documentation, machine learning",Medium,Beginner
+Principal Clinical Psychologist,"cloud computing, python, management, automation",Engineering,"python, management, research, teamwork, automation, cloud computing",High,Intermediate
+Lead Web Developer,"data analysis, security, project planning, communication",Education,"security, python, research, documentation, project planning, networking",High,Beginner
+Junior Computer Hardware Engineer,"project planning, design, security, networking",Government,"machine learning, analytics, documentation, networking, python, teamwork",High,Advanced
+Journalist,"writing, editing, journalism, research, storytelling, communication",Creative,"writing, editing, SEO, research, communication",High,Intermediate
+Content Writer,"writing, editing, SEO, blogging, content creation",Creative,"SEO, writing, research, communication",High,Beginner
+Copywriter,"copywriting, marketing, SEO, storytelling",Creative,"writing, SEO, marketing, communication",Medium,Intermediate
+Editor,"editing, proofreading, writing, grammar",Creative,"editing, writing, communication",Medium,Intermediate
+Social Media Manager,"social media, content creation, marketing, SEO",Creative,"marketing, SEO, analytics, communication",High,Intermediate
