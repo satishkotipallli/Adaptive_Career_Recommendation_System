@@ -46,7 +46,7 @@ project/
 ## 🚀 Setup
 
 # Clone repository
-git clone https://github.com/your-username/career-recommendation-system.git
+git clone https://github.com/satishkotipallli/Adaptive_Career_Recommendation_System.git
 
 # Backend
 cd backend
